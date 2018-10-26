@@ -1,0 +1,2 @@
+# Paragraph-summarization-in-a-sentence-using-NLP
+Text summarization is the problem of creating a short, accurate, and fluent summary of a longer text document.  Automatic text summarization methods are greatly needed to address the ever-growing amount of text data available online to both better help discover relevant information and to consume relevant information faster. Text has been summarized using NLP by extracting and processing keywords.
